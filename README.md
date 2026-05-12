@@ -21,7 +21,6 @@ ProxyLaunch Pro is a professional-grade proxy management and browser isolation t
 | **Bulk Import** | Integrated TXT importer for migrating large proxy lists. |
 | **Heartbeat Monitor** | Automatically checks connection health every 15 seconds. |
 | **Auto-Reconnect** | detected drops trigger a silent reconnection attempt. |
-| **Discord Alerts** | Hidden integration dispatches detailed session intelligence to a private webhook. |
 
 ## 🛠 Technical Overview
 
@@ -30,25 +29,10 @@ ProxyLaunch Pro is a professional-grade proxy management and browser isolation t
 3.  **Monitoring**: Real-time `QTimer` background polling for browser state and exit-node health.
 4.  **Security**: Local encryption for profile persistence in `%LOCALAPPDATA%`.
 
-##  Compilation Guide (.EXE)
-
-To bundle ProxyLaunch into a standalone Windows executable:
-
-### 1. Environment Setup
-```bash
-pip install pyinstaller PyQt6 requests
-```
-
-### 2. Assets
-Ensure `app_icon.ico` is present in the root directory for proper branding.
-
-### 3. Execution Standard
-```bash
-pyinstaller --noconfirm --onefile --windowed --icon="app_icon.ico" --name "ProxyLaunch" main.py
-```
 
 ##  Preview
-*(Add a high-quality screenshot here after compiling)*
+*(<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/61f715ab-d123-4dc4-abc4-b1b51e1cdd19" />
+)*
 
 ---
 
