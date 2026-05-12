@@ -9,7 +9,8 @@
 
 <br />
 
-ProxyLaunch Pro is a professional-grade proxy management and browser isolation tool. It allows you to launch multiple Google Chrome instances with unique proxy configurations, ensuring high session isolation and security.
+ProxyLaunch Pro is a professional-grade proxy management and browser isolation tool. It allows you to launch multiple Google Chrome instances with unique proxy configurations, ensuring high session isolation and security,
+check releases for download.
 
 ##  Key Features
 
