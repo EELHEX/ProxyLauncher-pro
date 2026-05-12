@@ -31,13 +31,13 @@ ProxyLaunch Pro is a professional-grade proxy management and browser isolation t
 
 
 ##  Preview
-*(<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/61f715ab-d123-4dc4-abc4-b1b51e1cdd19" />
-)*
+*<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/61f715ab-d123-4dc4-abc4-b1b51e1cdd19" />
+*
 
 ---
 
 ##  Security Notice
-This tool is designed for professional account management. Ensure your Discord Webhook URL is kept confidential within the source code (`HIDDEN_WEBHOOK_URL`).
+This tool is designed for professional account management.
 
 ##  Support & Contact
 For assistance or professional inquiries, reach out to: **@bp1q on Discord**
