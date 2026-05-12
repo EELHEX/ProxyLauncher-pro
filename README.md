@@ -32,8 +32,8 @@ check releases for download.
 
 
 ##  Preview
-*<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/61f715ab-d123-4dc4-abc4-b1b51e1cdd19" />
-*
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/61f715ab-d123-4dc4-abc4-b1b51e1cdd19" />
+
 
 ---
 
